@@ -1,0 +1,9 @@
+/*
+==============================
+Horizontal-stripes flags
+==============================
+*/
+
+.flag {
+  flex-flow: column wrap;
+}
