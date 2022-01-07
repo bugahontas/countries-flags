@@ -1,0 +1,30 @@
+/*
+=====================
+Author: Helena Maruf
+=====================
+*/
+
+/*
+===================================================================
+Flags with four different blocks opposed to each other by a cross
+===================================================================
+*/
+
+.flag {
+  flex-flow: row wrap;
+  justify-content: space-between;
+	gap: 54px;
+}
+
+.left, .right {
+	flex-flow: column wrap;
+	gap: 54px;
+}
+
+.left {
+	width: 30%;
+}
+
+.right {
+	width: 62%;
+}
