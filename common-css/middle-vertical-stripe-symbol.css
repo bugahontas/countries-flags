@@ -1,0 +1,11 @@
+/*
+==============================================================
+Vertical-stripes flags with symbol inside the middle stripe 
+==============================================================
+*/
+
+.symbol {
+  width: 33.3333%;
+  justify-content: center;
+  align-items: center;
+}
