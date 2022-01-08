@@ -1,0 +1,25 @@
+/*
+=====================
+Author: Helena Maruf
+=====================
+*/
+
+/* 
+==================================
+Canada flag
+==================================
+*/
+
+.stripe-one, .stripe-three {
+	background: #f00;
+}
+
+.stripe-two {
+  width: 50%;
+  background: #fff;
+}
+
+.coat-of-arms {
+  width: 300px;
+  height: 300px;
+}
