@@ -1,0 +1,20 @@
+/*
+=====================
+Author: Helena Maruf
+=====================
+*/
+
+/*
+====================================
+Latvia flag
+====================================
+*/
+
+.stripe-one, .stripe-three {
+  background: #9f0622;
+  flex-grow: 2;
+}
+
+.stripe-two {
+  background: #fff;
+}
