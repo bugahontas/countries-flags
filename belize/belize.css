@@ -1,0 +1,25 @@
+/*
+=====================
+Author: Helena Maruf
+=====================
+*/
+
+/* 
+==================================
+Belize flag
+==================================
+*/
+
+.stripe-one, .stripe-three {
+	background: #da0612;
+}
+
+.stripe-two {
+  background: #171696;
+  flex-grow: 5;
+}
+
+.belize-symbol {
+  width: 230px;
+  height: auto;
+}
