@@ -1,0 +1,24 @@
+/*
+=====================
+Author: Helena Maruf
+=====================
+*/
+
+/*
+====================================
+Thailand flag
+====================================
+*/
+
+.stripe-one, .stripe-five {
+  background: #df1119;
+}
+
+.stripe-two, .stripe-four {
+  background: #fff;
+}
+
+.stripe-three {
+  background: #00237e;
+  flex-grow: 3;
+}
