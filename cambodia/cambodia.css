@@ -6,23 +6,23 @@ Author: Helena Maruf
 
 /* 
 ==================================
-Belize flag
+Cambodia flag
 ==================================
 */
 
 .stripe-one, .stripe-three {
-	background: #da0612;
+	background: #002aa3;
 }
 
 .stripe-two {
-  background: #171696;
+  background: #e10020;
 }
 
 .symbol {
-  height: 80%;
+  height: 58%;
 }
 
-.belize-symbol {
-  width: 230px;
+.cambodia-symbol {
+  width: 280px;
   height: auto;
 }
