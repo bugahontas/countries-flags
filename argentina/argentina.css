@@ -6,23 +6,19 @@ Author: Helena Maruf
 
 /* 
 ==================================
-India flag
+Argentina flag
 ==================================
 */
 
-.stripe-one {
-	background: #ff9a30;
+.stripe-one, .stripe-three {
+	background: #74acdf;
 }
 
 .stripe-two {
   background: #fff;
 }
 
-.india-symbol {
-  width: 100px;
-  height: 100px;
-}
-
-.stripe-three {
-	background: #098901;
+.argentina-symbol{
+  width: 120px;
+  height: 120px;
 }
